@@ -16,6 +16,44 @@
     </header>
 </body>
 </html>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0d1b2a;
+}
+
+.banner {
+    background-image: url('path-to-your-ai-and-network-banner.jpg'); /* Add your AI and network themed banner image path here */
+    background-size: cover;
+    background-position: center;
+    color: #f5f5f5;
+    text-align: center;
+    padding: 100px 0;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.5); /* Darkens the background for better text visibility */
+}
+
+.banner-text h1 {
+    font-size: 4em;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.banner-text p {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.banner-text h2 {
+    font-size: 3em;
+    font-weight: 600;
+}
+
 
 # 7OOP-Lab-Task-# **Welcome to My GitHub Page!** 🎉
 
