@@ -2,7 +2,8 @@
 
 ## **ABOUT ME** 👋
 
-![My Picture](link-to-your-picture.jpg)
+![My Picture](![Uploading 539312583_1936306907163339_4274080683419342891_n.jpg…]()
+)
 
 Hello! I am **Cyrille Dale L. Ursal**, a college student with a passion for software development and technology. I enjoy learning about new tools and languages, and I’m constantly working on improving my coding skills. When I'm not studying or coding, I like exploring tech-related topics and sharing what I learn with others.
 
