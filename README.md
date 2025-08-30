@@ -5,6 +5,11 @@
   <!-- Optional banner -->
   <img src="path-to-your-banner-image.png" alt="AI and Network Banner" width="800"/>
 </p>
+<p align="center">
+  <a href="https://developer.vonage.com/en/blog/how-to-create-a-pull-request-with-github-desktop" target="_blank">
+    <img src="path-to-your-banner-image.png" alt="AI and Network Banner" width="800"/>
+  </a>
+</p>
 
 
 
