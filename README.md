@@ -1,3 +1,13 @@
+<!-- A. Heading / Banner -->
+<h1 align="center">7OOP Lab Task — Cyrille Dale L. Ursal</h1>
+
+<p align="center">
+  <!-- Optional banner -->
+  <img src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="Banner" width="500"/>
+</p>
+
+
+
 # 7OOP-Lab-Task-# **Welcome to My GitHub Page!** 🎉
 
 ## **ABOUT ME** 👋
