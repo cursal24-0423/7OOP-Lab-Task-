@@ -24,11 +24,9 @@ Hello! I am **Cyrille Dale L. Ursal**, a college student with a passion for soft
 - [Project 2: Another Project](link-to-project)
 - [Project 3: Awesome Tool](link-to-project)
 
-## **I'M HAPPY BECAUSE** 😄
+## **FUN FACTS ABOUT ME** 😅
 
-- I'm always learning and growing in my field.
-- I get to work on interesting projects that challenge me.
-- I'm able to share my knowledge and help others.
+- I'm lazy like that, but still get things done! 😎
 
 ## **CONTACTS** 📱
 
@@ -36,7 +34,6 @@ Hello! I am **Cyrille Dale L. Ursal**, a college student with a passion for soft
 - LinkedIn: [Your LinkedIn](link)
 - Twitter: [Your Twitter](link)
 - Email: [Your Email](mailto:youremail@example.com)
-
 
 - Facebook: [Your Facebook](link)
 - LinkedIn: [Your LinkedIn](link)
