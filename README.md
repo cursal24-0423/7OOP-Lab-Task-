@@ -1,3 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Banner</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="banner">
+        <div class="banner-text">
+            <h1>WELCOME TO MY GITHUB PAGE</h1>
+            <p>Cyrille Dale L. Ursal</p>
+            <h2>COMPUTERS, NETWORKS & AI</h2>
+        </div>
+    </header>
+</body>
+</html>
+
 # 7OOP-Lab-Task-# **Welcome to My GitHub Page!** 🎉
 
 ## **ABOUT ME** 👋
