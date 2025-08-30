@@ -1,11 +1,4 @@
-<!-- A. Heading / Banner -->
-<h1 align="center">7OOP Lab Task — Cyrille Dale L. Ursal</h1>
 
-<p align="center">
-  <!-- Optional banner -->
-  <a href="https://developer.vonage.com/en/blog/how-to-create-a-pull-request-with-github-desktop" target="_blank">
-    <img src="https://www.vecteezy.com/photo/13375671-iot-internet-of-things-information-communication-network-artificial-intelligence-website-banner-datacenter-background" alt="AI and Network Banner" width="800"/>
-  </a>
 
 
 
