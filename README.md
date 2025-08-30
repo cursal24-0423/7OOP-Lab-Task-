@@ -1,3 +1,8 @@
+# 7OOP Lab Task — Cyrille Dale L. Ursal
+
+<p align="center">
+  <img src="https://www.example.com/path-to-your-banner-image.png" alt="AI and Network Banner" width="800"/>
+</p>
 
 
 
