@@ -4,12 +4,11 @@
 
 ![My Picture](link-to-your-picture.jpg)
 
-Hello! I am **Cyrille Dale L. Ursal**, a passionate developer, tech enthusiast, and lifelong learner. I specialize in software development, problem-solving, and exploring new technologies. When I’m not coding, I enjoy reading, experimenting with new tools, and sharing my knowledge with others. 
+Hello! I am **Cyrille Dale L. Ursal**, a college student with a passion for software development and technology. I enjoy learning about new tools and languages, and I’m constantly working on improving my coding skills. When I'm not studying or coding, I like exploring tech-related topics and sharing what I learn with others.
 
 ## **AREA OF INTEREST** 🎯
 
 - Software Development
-- Web Development
 - Artificial Intelligence
 - Machine Learning
 - Cloud Computing
