@@ -1,3 +1,10 @@
+<!-- A. Heading / Banner -->
+<h1 align="center">7OOP Lab Task — Cyrille Dale L. Ursal</h1>
+
+<p align="center">
+  <!-- Optional banner -->
+  <img src="https://www.pngimg.com/uploads/github/github_PNG65-1.png" alt="AI and Network Banner" width="800"/>
+</p>
 
 
 
