@@ -1,4 +1,11 @@
-pngimg.com-github_PNG65-1.png
+<!-- A. Heading / Banner -->
+<h1 align="center">7OOP Lab Task — Cyrille Dale L. Ursal</h1>
+
+<p align="center">
+  <!-- Banner -->
+  <img src="https://www.pngimg.com/uploads/github/github_PNG65-1.png" alt="GitHub Banner" width="800"/>
+</p>
+
 
 
 
