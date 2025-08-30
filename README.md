@@ -3,8 +3,9 @@
 
 <p align="center">
   <!-- Optional banner -->
-  <img src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="Banner" width="500"/>
+  <img src="path-to-your-image.png" alt="Banner" width="500"/>
 </p>
+
 
 
 
