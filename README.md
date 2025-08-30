@@ -37,7 +37,7 @@ Hello! I am **Cyrille Dale L. Ursal**, a college student with a passion for soft
 
 ## **FUN FACTS ABOUT ME** 😅
 
-- I'm lazy like that, but still get things done! 😎
+- I'm lazy like that, but still get things done! 
 
 ## **CONTACTS** 📱
 
