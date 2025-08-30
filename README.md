@@ -1,7 +1,3 @@
-<p align="center">
-  <!-- Optional banner -->
-  <img src="path-to-your-banner-image.png" alt="AI and Network Banner" width="800"/>
-</p>
 
 
 
