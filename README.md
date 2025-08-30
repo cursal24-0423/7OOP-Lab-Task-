@@ -30,9 +30,8 @@ Hello! I am **Cyrille Dale L. Ursal**, a college student with a passion for soft
 
 ## **CONTACTS** 📱
 
-- Facebook: [Your Facebook](https://www.facebook.com/dale.ursal.7)
-- LinkedIn: [Your LinkedIn](link)
-- Twitter: [Your Twitter](link)
-- Email: [Your Email](mailto:cursal24-0423@cca.edu.ph)
+- Facebook: [Cyrille Dale L. Ursal](https://www.facebook.com/dale.ursal.7)  
+- Email: [cursal24-0423@cca.edu.ph](mailto:cursal24-0423@cca.edu.ph)
+
 
 
