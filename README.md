@@ -32,7 +32,7 @@ Hello! I am **Cyrille Dale L. Ursal**, a college student with a passion for soft
 ## **PROJECT LINKS** 🚀
 
 - [Project 1: Midterm Lab Task 1 Getting started with Python](https://docs.google.com/document/d/1TtoPRV9AhZCqlNi0Vr1kGTFooG0bIkAQCVgyk3jNHak/edit?usp=sharing)
-- [Project 2: Another Project](link-to-project)
+- [Project 2: Midterm Paired Task 1](https://docs.google.com/document/d/133jqBnbH8DAgn0lRO0ysTYUt3PspoJqA/edit?usp=sharing&ouid=111344941922690262345&rtpof=true&sd=true)
 - [Project 3: Awesome Tool](link-to-project)
 
 ## **FUN FACTS ABOUT ME** 😅
