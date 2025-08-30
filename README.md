@@ -2,7 +2,7 @@
 
 
 
-# 7OOP-Lab-Task-# **Welcome to My GitHub Page!** 🎉
+# 7OOP-Lab-Task- **Welcome to My GitHub Page!** 🎉
 
 ## **ABOUT ME** 👋
 
