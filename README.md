@@ -1,10 +1,6 @@
 
 
-  <header>
-    <img src="https://www.pngimg.com/uploads/github/github_PNG65-1.png" alt="GitHub Logo">
-    <h1>7OOP Lab Task — Cyrille Dale L. Ursal</h1>
-    <p>Welcome to My GitHub Page! 🎉</p>
-  </header>
+  
 
   <section>
     <h2>👋 About Me</h2>
