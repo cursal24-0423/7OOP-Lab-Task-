@@ -1,57 +1,37 @@
+# *Welcome to My GitHub Page!* 🎉
 
+## *ABOUT ME* 👋
 
-  
+Hello! I am *Cyrille Dale L. Ursal*, a college student with a passion for software development and technology. I enjoy learning about new tools and languages, and I’m constantly working on improving my coding skills. When I'm not studying or coding, I like exploring tech-related topics and sharing what I learn with others.
 
-  <section>
-    <h2>👋 About Me</h2>
-    <p>Hello! I am <strong>Cyrille Dale L. Ursal</strong>, a college student with a passion for software development and technology. I enjoy learning about new tools and languages, and I’m constantly working on improving my coding skills. When I'm not studying or coding, I like exploring tech-related topics and sharing what I learn with others.</p>
-  </section>
+## *AREA OF INTEREST* 🎯
 
-  <section>
-    <h2>🎯 Area of Interest</h2>
-    <ul>
-      <li>Software Development</li>
-      <li>Artificial Intelligence</li>
-      <li>Machine Learning</li>
-      <li>Cloud Computing</li>
-      <li>Cybersecurity</li>
-    </ul>
-  </section>
+- Software Development
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+- Cybersecurity
 
-  <section>
-    <h2>💻 Programming Languages I Know</h2>
-    <ul>
-      <li>Python</li>
-      <li>C</li>
-      <li>Java</li>
-    </ul>
-  </section>
+## *PL LANGUAGES I KNOW* 💻
 
-  <section>
-    <h2>🚀 Project Links</h2>
-    <ul>
-      <li><a href="https://docs.google.com/document/d/1TtoPRV9AhZCqlNi0Vr1kGTFooG0bIkAQCVgyk3jNHak/edit?usp=sharing" target="_blank">Project 1: Midterm Lab Task 1 - Getting Started with Python</a></li>
-      <li><a href="https://docs.google.com/document/d/133jqBnbH8DAgn0lRO0ysTYUt3PspoJqA/edit?usp=sharing" target="_blank">Project 2: Midterm Paired Task 1</a></li>
-      <li><a href="https://github.com/yourusername/yourproject" target="_blank">Project 3: Awesome Tool</a></li>
-    </ul>
-  </section>
+- *Python*
+- *C*
+- *Java*
 
-  <section>
-    <h2>😅 Fun Facts About Me</h2>
-    <p>I'm lazy like that, but still get things done!</p>
-  </section>
+## *PROJECT LINKS* 🚀
 
-  <section class="contacts">
-    <h2>📱 Contacts</h2>
-    <p><i class="fab fa-facebook"></i> Facebook: <a href="https://www.facebook.com/dale.ursal.7" target="_blank">Cyrille Dale L. Ursal</a></p>
-    <p><i class="fas fa-envelope"></i> Email: <a href="mailto:cursal24-0423@cca.edu.ph">cursal24-0423@cca.edu.ph</a></p>
-  </section>
+- [Project 1: Your Project Name](link-to-project)
+- [Project 2: Another Project](link-to-project)
+- [Project 3: Awesome Tool](link-to-project)
 
-  <footer>
-    <p>© 2025 Cyrille Dale L. Ursal | BSCS Student</p>
-  </footer>
+## *FUN FACTS ABOUT ME* 😅
 
-</body>
-</html>
+- I'm lazy like that, but still get things done! 😎
 
+## *CONTACTS* 📱
+
+- Facebook: [Your Facebook](link)
+- LinkedIn: [Your LinkedIn](link)
+- Twitter: [Your Twitter](link)
+- Email: [Your Email](mailto:youremail@example.com)
 
