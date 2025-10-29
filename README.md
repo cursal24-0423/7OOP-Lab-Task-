@@ -27,7 +27,11 @@
 - [Project 1: Mid Paired Task](link-to-project)
 - [Project 2: Github Portfolio](link-to-project)
 - [Project 3: Lab task 2](link-to-project)
-- [Project 4: Lab task 2](https://drive.google.com/file/d/1u5O6juJz2GPkvisGXwXyZSwbbeXWJDoj/view)
+- [Project 4: Lab task 1](https://drive.google.com/file/d/1u5O6juJz2GPkvisGXwXyZSwbbeXWJDoj/view)
+- [Project 5: Midterm Lab Task 3. Using List Collections ](https://docs.google.com/document/d/15MmmICwnjiZLXbTzucJJiR-W1T5wozUTi4LrCF7MvwI/edit?usp=sharing)
+- [Project 6: Midterm Lab Task 4. Using Dictionary Collections ](https://docs.google.com/document/d/1obfw63EQyIVE5y29OQVxpXPECVKKE2nWahWMQDm2Tx0/edit?usp=sharing)
+- [Project 7: Midterm Lab Task 5. Creating and Instantiating Classes](https://docs.google.com/document/d/1csLC9woZEbXsadS2uHkHJJJfETOJStzQPLS_DHzxhkI/edit?usp=sharing)
+- [Project 8: Midterm Lab Task 6. Overloaded Consturctors](https://docs.google.com/document/d/1iHiT2BfpIx1S1PBQA0nNL3Byri_5bQ9kc-0BULf-YJQ/edit?usp=sharing)
 
 ## *FUN FACTS ABOUT ME* 😅
 
