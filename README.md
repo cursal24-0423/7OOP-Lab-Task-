@@ -24,9 +24,10 @@
 
 ## *PROJECT LINKS* 🚀
 
-- [Project 1: Your Project Name](link-to-project)
-- [Project 2: Another Project](link-to-project)
-- [Project 3: Awesome Tool](link-to-project)
+- [Project 1: Mid Paired Task](link-to-project)
+- [Project 2: Github Portfolio](link-to-project)
+- [Project 3: Lab task 2](link-to-project)
+- [Project 4: Lab task 2](https://drive.google.com/file/d/1u5O6juJz2GPkvisGXwXyZSwbbeXWJDoj/view)
 
 ## *FUN FACTS ABOUT ME* 😅
 
